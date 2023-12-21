@@ -3541,6 +3541,11 @@
             "id": "10estabilidaddetaludes",
             "titulo": "Diseño de Estabilidad de Taludes en [@location]",
             "texto_mapa": "<p>Nuestra especialidad en Estabilidad de Taludes Rocosos se basa en brindar servicios en [@location]. Presentando una considerable experiencia en el campo, nuestros profesionales están comprometidos a satisfacer tus requerimientos. Tus obras de Estabilidad de Taludes son nuestra máxima prioridad y nos esforzamos por hacerlas realidad mientras mantenemos los más altos estándares de seguridad y resguardo.</p> "
+          },
+          {
+            "id": "soilmechanics7",
+            "titulo": "Soil Mechanics studies in [@location]",
+            "texto_mapa": "<p>Searching for Soil Mechanic Services at [@location]? Our skilled team of experts is committed to delivering superior results. We offer a wide range of services, including comprehensive Soil Mechanic Studies, geotechnical assessments, precise laboratory tests, and detailed Soil Mechanic Design. Whatever your requirements might be, our knowledge in Applied soil mechanics guarantees satisfaction. Contact us for a consultation and start your venture on a solid base of confidence and quality.</p>"
           }
     ]
 
