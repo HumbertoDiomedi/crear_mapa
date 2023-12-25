@@ -3554,8 +3554,8 @@
           },
           {
             "id": "retainingwall72",
-            "titulo": "Estabilidad de Taludes en [@location]",
-            "texto_mapa": "     \"id\": \"retainingwall72\",     \"titulo\": \"Diseño de Estabilidad de Taludes en [@location]\",     \"texto_mapa\": \"<p>We concentrate on providing services to the residents of [@location] and the nearby areas. With an extensive background in the industry, our specialists endeavor to meet your infrastructure requirements with precision and attention to detail. Your aspirations for a well-planned Retaining wall are our top priority, and we are devoted to making them a reality while upholding the highest standards of safety and comfort.</p>\"   "
+            "titulo": "Estudios de Estabilidad de Taludes en [@location]",
+            "texto_mapa": "<p>We concentrate on providing services to the residents of [@location] and the nearby areas. With an broad background in the industry, our specialists endeavor to meet your infrastructure requirements with precision and attention to detail. Your aspirations for a well-planned Retaining wall are our top priority, and we are dedicated to making them a reality while upholding the highest standards of safety and comfort.</p>"
           }
         
     ]
