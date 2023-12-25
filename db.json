@@ -3546,7 +3546,13 @@
             "id": "soilmechanics7",
             "titulo": "Soil Mechanics studies in [@location]",
             "texto_mapa": "<p>Searching for Soil Mechanic Services at [@location]? Our skilled team of experts is committed to delivering superior results. We offer a wide range of services, including comprehensive Soil Mechanic Studies, geotechnical assessments, precise laboratory tests, and detailed Soil Mechanic Design. Whatever your requirements might be, our knowledge in Applied soil mechanics guarantees satisfaction. Contact us for a consultation and start your venture on a solid base of confidence and quality.</p>"
+          },
+          {
+            "id": "slopestabilitycompany24",
+            "titulo": "Diseño de Estabilidad de Taludes en [@location]",
+            "texto_mapa": "<p>Our expertise in [@keytoken] is built on offering services in [@location]. Exhibiting considerable experience in the field, our professionals are committed to meeting your needs. Your Slope Stability projects are our foremost priority and we diligently work to make them a reality while maintaining the highest standards of safety and protection.</p>"
           }
+        
     ]
 
 
